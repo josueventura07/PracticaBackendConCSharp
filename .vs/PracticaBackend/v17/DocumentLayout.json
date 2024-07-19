@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josue Ventura\\source\\repos\\PracticaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0BBACA-6DD9-4F5E-9828-7495AC40E17C}|PracticaBackend\\PracticaBackend.csproj|c:\\users\\josue ventura\\source\\repos\\practicabackend\\practicabackend\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0BBACA-6DD9-4F5E-9828-7495AC40E17C}|PracticaBackend\\PracticaBackend.csproj|solutionrelative:practicabackend\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue Ventura\\source\\repos\\PracticaBackend\\PracticaBackend\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "PracticaBackend\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\Josue Ventura\\source\\repos\\PracticaBackend\\PracticaBackend\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "PracticaBackend\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:36:14.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
